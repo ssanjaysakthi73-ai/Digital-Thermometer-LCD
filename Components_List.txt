@@ -1,0 +1,15 @@
+COMPONENTS USED
+
+1. Arduino Uno
+
+2. LM35 Temperature Sensor
+
+3. 16×2 LCD Display
+
+4. 10k Potentiometer
+
+5. Breadboard
+
+6. Jumper Wires
+
+7. USB Cable
