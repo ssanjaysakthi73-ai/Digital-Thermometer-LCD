@@ -1,0 +1,40 @@
+DIGITAL THERMOMETER WITH LCD
+
+Introduction
+
+A digital thermometer is an electronic device that measures temperature using a temperature sensor. This project uses an LM35 sensor and an Arduino Uno to display the temperature on a 16×2 LCD screen.
+
+Objective
+
+To design a simple digital thermometer capable of displaying real-time temperature measurements.
+
+Components Used
+
+- Arduino Uno
+- LM35 Temperature Sensor
+- 16×2 LCD
+- 10k Potentiometer
+- Breadboard
+- Jumper Wires
+
+Working Principle
+
+The LM35 outputs an analog voltage proportional to the surrounding temperature. The Arduino converts this voltage into a temperature value and displays it on the LCD.
+
+Advantages
+
+- Accurate temperature measurement
+- Low cost
+- Easy to build
+- Real-time display
+
+Applications
+
+- Room temperature monitoring
+- Laboratories
+- Educational projects
+- Industrial monitoring
+
+Conclusion
+
+The Digital Thermometer with LCD is a simple and effective embedded system that provides accurate real-time temperature monitoring. It demonstrates the use of sensors, analog-to-digital conversion, and LCD interfacing with Arduino.
